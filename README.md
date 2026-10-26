@@ -67,6 +67,11 @@ Po kompilacji w konfiguracji `Release|x64` plik programu znajduje siê w:
 - `Debug x64`
 - `Release x64`
 
+## Licencja
+
+Projekt jest udostêpniany na licencji `MIT`.
+Szczegó³y: plik `LICENSE`.
+
 ---
 
 ## Twórcy i Ÿród³a
@@ -80,3 +85,5 @@ Repozytorium / pobranie programu:
 - Wydania (`.exe`): `https://github.com/KM2104/qr-codes-generation-and-reading/releases`
 
 > Jeœli nazwa repozytorium bêdzie inna, podmieñ tylko koñcówkê URL.
+
+
